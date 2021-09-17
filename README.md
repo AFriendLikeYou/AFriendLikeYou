@@ -1,5 +1,6 @@
-👋 Doing things. Currently at @ZeitOnline
+Doing things.
 
+Currently at @ZeitOnline  
 Part of www.importexport.studio
 
 <!--
